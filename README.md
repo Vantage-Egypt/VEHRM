@@ -1,6 +1,6 @@
-#VEHRM Project 
+# VEHRM Project 
 This project is designed for human resources management in companies.
-##Main features:-
+## Main features:-
 1- Finger Print Method
 2- Face Detection Method
 3- Attendeance by Mobile APP (Only Android for now)
