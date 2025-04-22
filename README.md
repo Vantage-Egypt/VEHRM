@@ -1,4 +1,4 @@
-# VEHRM Project 
+# HRMSYS Project 
 This project is designed for human resources management in companies.
 
 ## 📋 Main features:-
